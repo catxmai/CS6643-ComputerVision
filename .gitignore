@@ -1,0 +1,3 @@
+*.pdf
+!canny_edge
+!hog
